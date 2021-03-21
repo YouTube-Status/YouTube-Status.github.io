@@ -4,7 +4,18 @@ html, body {
     color: #fff;
 }
 
+.description, .Usage, .contact, .QA {
+    padding-left: 5rem;
+}
+
+.contact {
+    padding-bottom: 10rem;
+}
+
+p, img {
+    padding-left: 3rem;
+}
+
 h1 {
     text-align: center;
 }
-
